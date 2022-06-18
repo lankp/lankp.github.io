@@ -18,6 +18,19 @@ My research interests are primarily in algebraic geometry and commutative algebr
 - "On An algebraic \& Geometric Connection Of The Beal Conjecture", Women in Mathematics in New England (WIMIN 2016) at Smith College, MA in September 2016.
 - "On A Geometric Connection Of The Beal Conjecture \& Arithmetic Topology", MAA Northeast Spring Section Meeting in June, 2016 at University of New England, ME.
 
+## Expository talks given
+
+- "Differentiation of Lie algebras", University of South Carolina, Lie Algebra Seminar, June 2022
+- "Dimension for derived categories", University of South Carolina, Algebraic Geometry \& Commutative Algebra Seminar, April 2022
+- "Generation and dimension for derived categories", Commutative Algebra Regional Expository Seminar, April 2022
+- "Generation in derived categories", University of South Carolina, Algebraic Geometry \& Commutative Algebra Seminar, March 2022
+- "$F$-thick varieties: A Survey", University of South Carolina, Algebraic Geometry \& Commutative Algebra Seminar, February 2022
+- "Singularity categories in birational geometry", University of South Carolina, Algebraic Geometry \& Commutative Algebra Seminar, October 2021
+- "Regularity in prime characteristic via Kunz", Commutative Algebra Regional Expository Seminar, October 2021
+- "Techniques in prime characteristic", University of South Carolina, Algebraic Geometry \& Commutative Algebra Seminar, October 2021
+- "Classification of irreducible representation for rigid motions", University of South Carolina, Representation Theory Seminar, July 2021
+- "Characters of Induced Representation's in Characteristic Zero", University of South Carolina, Representation Theory Seminar, June 2021
+
 ## Conferences & workshops attended
 
 - Derived Categories, Moduli Spaces, and Hyperkähler Varieties, University of Michigan, July to August 2022
@@ -29,8 +42,7 @@ My research interests are primarily in algebraic geometry and commutative algebr
 - AMS Spring Central Sectional Meeting (formerly at Purdue University), March 2022 (Virtual)
 - AMS Sectional Meeting, Special Session on Commutative Algebra, October 2021 (Virtual)
 - Derived, Birational, and Categorical Algebraic Geometry, Banff International Research Station, November 2021 (virtual)
-- University of Utah, Oct 24-25, 2020,
-Special Sessions on Building bridges between commutative algebra and nearby areas (Virtual)
+- University of Utah, Oct 24-25, 2020, Special Sessions on Building bridges between commutative algebra and nearby areas (Virtual)
 - University of Tennessee at Chattanooga, Oct 10-11, 2020, Special Session on Homological Commutative Algebra (Virtual)
 - Simmons Conference "K-Stability" September 28th to October 2nd 2020 (Virtual)
 - Quebec-Maine Number Theory Conference 2020, September 26-27 (Virtual)
