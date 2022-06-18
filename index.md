@@ -10,8 +10,6 @@ The following link is a copy of my [CV](https://github.com/lankp/lankp.github.io
 
 My research interests are primarily in algebraic geometry and commutative algebra. In particular, I am interested in questions and ideas regarding derived categories, birational geometry in nonzero characteristic, and singularity theory. Lately, this includes understanding the structure of the derived category of bounded complexes of coherent sheaves of a variety over a field of prime characteristic. For more details, see [here](https://lankp.github.io/research).
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
 ## Teaching
 
 This Fall 2022, I will be teaching TBA. For more details, see [here](https://lankp.github.io/teaching).
