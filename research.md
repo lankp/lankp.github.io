@@ -5,7 +5,7 @@ My research interests are primarily in algebraic geometry and commutative algebr
 
 ## Publications
 
-- M. Ballard, P. Lank, Generation in prime characteristic — In Preparation.
+- M. Ballard, P. Lank, Generation of derived categories in prime characteristic — In Preparation.
 
 ## Selected talks given
 
