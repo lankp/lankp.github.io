@@ -4,11 +4,11 @@ I am a second year PhD mathematics student at the University of South Carolina u
 
 The following link is a copy of my [CV](https://github.com/lankp/lankp.github.io/blob/main/CV.pdf).
 
-## Research
+## [Research](https://lankp.github.io/research)
 
 My research interests are primarily in algebraic geometry and commutative algebra. In particular, I am interested in questions and ideas regarding derived categories, birational geometry in nonzero characteristic, and singularity theory. Lately, this includes understanding the structure of the derived category of bounded complexes of coherent sheaves of a variety over a field of prime characteristic. For more details, see [here](https://lankp.github.io/research).
 
-## Teaching
+## [Teaching](https://lankp.github.io/teaching)
 
 This Fall 2022, I will be teaching TBA. For more details, see [here](https://lankp.github.io/teaching).
 
