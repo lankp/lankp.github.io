@@ -1,7 +1,7 @@
 
 # Teaching
 
-Eventually put my teaching philosphy here.
+Eventually put my teaching philosophy here.
 
 ## University of South Carolina
 
