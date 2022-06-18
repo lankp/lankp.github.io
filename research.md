@@ -1,7 +1,7 @@
 
 # Research
 
-My research interests are primarily in algebraic geometry and commutative algebra. In particular, I am interested in questions and ideas regarding derived categories, nonzero characteristic, and singularity theory. Lately, this includes understanding the structure of the derived category of bounded complexes of coherent sheaves of a variety over a field of prime characteristic. 
+My research interests are primarily in algebraic geometry and commutative algebra. In particular, I am interested in questions and ideas regarding derived categories, nonzero characteristic, and singularity theory. Lately, this includes understanding the structure of the derived category of bounded complexes of coherent sheaves for a variety over a field of prime characteristic. 
 
 ## Publications
 
@@ -13,10 +13,10 @@ My research interests are primarily in algebraic geometry and commutative algebr
 - "Generation of derived categories in prime characteristic", Algebraic Geometry & Singularity Theory Workshop, University of Washington, June 2022
 - "Line Bundle-valued Quadratic Forms", University of South Carolina, Algebraic Geometry Number Theory Seminar, March 2021
 - "Riemannian Curvature For Schemes", University of South Carolina, October 2020
-- "Algebraic Psuedo-Riemannian Geometry", Algebra & Geometry Seminar November 2019, University of New Mexico 
-- "Higher Weakly Enriched Categories" Algebra & Geometry Seminar November and December, 2018, University of New Mexico
-- "On An algebraic & Geometric Connection Of The Beal Conjecture", Women in Mathematics in New England (WIMIN 2016) at Smith College, MA in September 2016.
-- "On A Geometric Connection Of The Beal Conjecture & Arithmetic Topology", MAA Northeast Spring Section Meeting in June, 2016 at University of New England, ME.
+- "Algebraic Psuedo-Riemannian Geometry", Algebra & Geometry Seminar, University of New Mexico, November 2019
+- "Higher Weakly Enriched Categories" Algebra & Geometry Seminar, University of New Mexico, November and December 2018
+- "On An algebraic & Geometric Connection Of The Beal Conjecture", Women in Mathematics in New England (WIMIN 2016) at Smith College, MA, September 2016
+- "On A Geometric Connection Of The Beal Conjecture & Arithmetic Topology", MAA Northeast Spring Section Meeting at University of New England, ME, June 2016
 
 ## Expository talks given
 
