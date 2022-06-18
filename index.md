@@ -8,33 +8,13 @@ The following link is a copy of my [CV](https://github.com/lankp/lankp.github.io
 
 ## Research
 
-My research interests are primarily in algebraic geometry and commutative algebra. In particular, I am interested in questions and ideas regarding derived categories, birational geometry in nonzero characteristic, and singularity theory. Lately, this includes understanding the structure of the derived category of bounded complexes of coherent sheaves of a variety over a field of prime characteristic.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+My research interests are primarily in algebraic geometry and commutative algebra. In particular, I am interested in questions and ideas regarding derived categories, birational geometry in nonzero characteristic, and singularity theory. Lately, this includes understanding the structure of the derived category of bounded complexes of coherent sheaves of a variety over a field of prime characteristic. For more details, see [here](https://lankp.github.io/research).
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ##Teaching
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lankp/lankp.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This Fall 2022, I will be teaching TBA. For more details, see [here](https://lankp.github.io/teaching).
 
 ## Contact
 
