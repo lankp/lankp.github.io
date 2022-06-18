@@ -10,24 +10,24 @@ My research interests are primarily in algebraic geometry and commutative algebr
 ## Selected talks given
 
 - "Generation of derived categories in prime characteristic", Derived Categories and Rationality Session at the AMS-EMS-SMF 2022 congress in France, July 2022
-- "Generation of derived categories in prime characteristic", Algebraic Geometry \& Singularity Theory Workshop, University of Washington, June 2022
+- "Generation of derived categories in prime characteristic", Algebraic Geometry & Singularity Theory Workshop, University of Washington, June 2022
 - "Line Bundle-valued Quadratic Forms", University of South Carolina, Algebraic Geometry Number Theory Seminar, March 2021
 - "Riemannian Curvature For Schemes", University of South Carolina, October 2020
-- "Algebraic Psuedo-Riemannian Geometry", Algebra \& Geometry Seminar November 2019, University of New Mexico 
-- "Higher Weakly Enriched Categories" Algebra \& Geometry Seminar November and December, 2018, University of New Mexico
-- "On An algebraic \& Geometric Connection Of The Beal Conjecture", Women in Mathematics in New England (WIMIN 2016) at Smith College, MA in September 2016.
-- "On A Geometric Connection Of The Beal Conjecture \& Arithmetic Topology", MAA Northeast Spring Section Meeting in June, 2016 at University of New England, ME.
+- "Algebraic Psuedo-Riemannian Geometry", Algebra & Geometry Seminar November 2019, University of New Mexico 
+- "Higher Weakly Enriched Categories" Algebra & Geometry Seminar November and December, 2018, University of New Mexico
+- "On An algebraic & Geometric Connection Of The Beal Conjecture", Women in Mathematics in New England (WIMIN 2016) at Smith College, MA in September 2016.
+- "On A Geometric Connection Of The Beal Conjecture & Arithmetic Topology", MAA Northeast Spring Section Meeting in June, 2016 at University of New England, ME.
 
 ## Expository talks given
 
 - "Differentiation of Lie algebras", University of South Carolina, Lie Algebra Seminar, June 2022
-- "Dimension for derived categories", University of South Carolina, Algebraic Geometry \& Commutative Algebra Seminar, April 2022
+- "Dimension for derived categories", University of South Carolina, Algebraic Geometry & Commutative Algebra Seminar, April 2022
 - "Generation and dimension for derived categories", Commutative Algebra Regional Expository Seminar, April 2022
-- "Generation in derived categories", University of South Carolina, Algebraic Geometry \& Commutative Algebra Seminar, March 2022
-- "$F$-thick varieties: A Survey", University of South Carolina, Algebraic Geometry \& Commutative Algebra Seminar, February 2022
-- "Singularity categories in birational geometry", University of South Carolina, Algebraic Geometry \& Commutative Algebra Seminar, October 2021
+- "Generation in derived categories", University of South Carolina, Algebraic Geometry & Commutative Algebra Seminar, March 2022
+- "$F$-thick varieties: A Survey", University of South Carolina, Algebraic Geometry & Commutative Algebra Seminar, February 2022
+- "Singularity categories in birational geometry", University of South Carolina, Algebraic Geometry & Commutative Algebra Seminar, October 2021
 - "Regularity in prime characteristic via Kunz", Commutative Algebra Regional Expository Seminar, October 2021
-- "Techniques in prime characteristic", University of South Carolina, Algebraic Geometry \& Commutative Algebra Seminar, October 2021
+- "Techniques in prime characteristic", University of South Carolina, Algebraic Geometry & Commutative Algebra Seminar, October 2021
 - "Classification of irreducible representation for rigid motions", University of South Carolina, Representation Theory Seminar, July 2021
 - "Characters of Induced Representation's in Characteristic Zero", University of South Carolina, Representation Theory Seminar, June 2021
 
