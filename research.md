@@ -7,7 +7,7 @@ My research interests are primarily in algebraic geometry and commutative algebr
 
 - M. Ballard, P. Lank, Generation in prime characteristic — In Preparation.
 
-##Selected talks given
+## Selected talks given
 
 - "Generation of derived categories in prime characteristic", Derived Categories and Rationality Session at the AMS-EMS-SMF 2022 congress in France, July 2022
 - "Generation of derived categories in prime characteristic", Algebraic Geometry \& Singularity Theory Workshop, University of Washington, June 2022
@@ -18,7 +18,7 @@ My research interests are primarily in algebraic geometry and commutative algebr
 - "On An algebraic \& Geometric Connection Of The Beal Conjecture", Women in Mathematics in New England (WIMIN 2016) at Smith College, MA in September 2016.
 - "On A Geometric Connection Of The Beal Conjecture \& Arithmetic Topology", MAA Northeast Spring Section Meeting in June, 2016 at University of New England, ME.
 
-##Conferences & workshops attended
+## Conferences & workshops attended
 
 - Derived Categories, Moduli Spaces, and Hyperkähler Varieties, University of Michigan, July to August 2022
 - Algebraic Geometry and Singularities Learning Workshop & Conference, University of Washington at Seattle, June 2022
