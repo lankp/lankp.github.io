@@ -1,4 +1,4 @@
-![](/lankp.github.io/assets/profile.jpg)
+![Somewhere in Ashville, NC](/lankp.github.io/assets/profile.jpg)
 # Pat Lank
 
 ## About
