@@ -12,7 +12,7 @@ My research interests are primarily in algebraic geometry and commutative algebr
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-##Teaching
+## Teaching
 
 This Fall 2022, I will be teaching TBA. For more details, see [here](https://lankp.github.io/teaching).
 
