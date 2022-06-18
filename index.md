@@ -2,11 +2,11 @@
 
 ## About
 
-I am a second year PhD mathematics student at the University of South Carolina under the supervision of [Dr. Matthew Ballard](https://www.matthewrobertballard.com).
+I am a second year PhD mathematics student at the University of South Carolina under the supervision of [Dr. Matthew Ballard](https://www.matthewrobertballard.com). Previously, I was a M.Sc. student at the University of New Mexico and was advised by [Dr. Alexandru Buium](http://www.math.unm.edu/~buium). Besides doing mathematics, you can find me running [trail races](https://runsignup.com/Race/SC/Greenville/ParisMountain) and listening to music.
 
 ## Research
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
