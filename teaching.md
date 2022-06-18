@@ -8,9 +8,14 @@ Eventually add something about my teaching philsophy.
 
 ## University of South Carolina
 
-###Instructor of record
+### Instructor of record
 ```markdown
-1. test
+- MATH 241 - Calculus III, Summer 2022
+- MATH 122 - Business Calculus, University of South Carolina, Spring 2022
+- MATH 111 - Basic College Mathematics, Fall 2021 (Overload)
+- MATH 115 - Precalculus, Fall 2021
+- MATH 241 - Calculus III, Summer 2021
+- MATH 122 - Business Calculus, University of South Carolina, Spring 2021
 ```
 
 ```markdown
