@@ -1,0 +1,13 @@
+menu:
+- {name: 'home', url: '/index'}
+- {name: 'research', url: '/research'}
+- {name: 'teaching', url: '/teaching'}
+
+#social:
+#- {icon: 'arXiv', link: 'https://arxiv.org/a/0000-0003-1593-2823.html'}
+#- {icon: 'Google Scholar', link: 'https://scholar.google.com/citations?user=JDLS-0oAAAAJ&hl=en&oi=ao'}
+#- {icon: 'Orchid', link: 'https://orcid.org/0000-0002-2367-2892'}
+#- {icon: 'github', link: 'https://github.com/lankp'}
+
+contacts:
+- {name: 'Pat Lank', title: , department: 'Department of Mathematics', institution: 'Università degli di Milano', institution_address: , phone: , email: 'plankmathematics@gmail.com', office: , image: 'assets/img/photo.gif'}
