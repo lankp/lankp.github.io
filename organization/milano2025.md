@@ -1,8 +1,3 @@
----
-layout: milanworkshop2025
-title: "Mini workshop on 'Derived categories in algebra, geometry, and topology'"
----
-
 **Derived categories in algebra, geometry, and topology**
 
 The Department of Mathematics "Federigo Enriques" of Università degli Studi di Milano is organizing a one day mini workshop on *Derived categories in algebra, geometry, and topology*. 
