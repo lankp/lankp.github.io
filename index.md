@@ -1,16 +1,9 @@
 
-I am a postdoctoral research fellow for the Department of Mathematics at [Università degli Studi di Milano](https://www.unimi.it/en) under the supervision of [Amnon Neeman](https://www.unimi.it/en/ugov/person/amnon-neeman). 
-   
-During April 2024, I was a research associate at the [Simons-Laufer Mathematical Sciences Institute](https://www.slmath.org/programs/356). Prior to this, I was a PhD student at the University of South Carolina under the supervision of [Matthew Ballard](https://www.matthewrobertballard.com), as well as an M.Sc. student at the University of New Mexico under the supervision of [Alexandru Buium](http://www.math.unm.edu/~buium). 
+I am a postdoctoral research fellow for the Department of Mathematics at [Università degli Studi di Milano](https://www.unimi.it/en) under the supervision of [Amnon Neeman](https://www.unimi.it/en/ugov/person/amnon-neeman). During April 2024, I was a research associate at the [Simons-Laufer Mathematical Sciences Institute](https://www.slmath.org/programs/356). Prior to this, I was a PhD student at the University of South Carolina under the supervision of [Matthew Ballard](https://www.matthewrobertballard.com), as well as an M.Sc. student at the University of New Mexico under the supervision of [Alexandru Buium](http://www.math.unm.edu/~buium). 
 
-A copy of my CV may be found [here](/assets/PDFs/LankCV.pdf), with details on my research is on this [page](https://lankp.github.io/research).
+A copy of my CV may be found [here](/assets/PDFs/LankCV.pdf).
 
-<details>
-<summary>Research</summary>
-
-My work is on algebraic geometry, especially towards singularity theory, using methods from derived categories and homological algebra. See below for details. 
-
-## Publications, preprints, and in preparation:     
+My work is on algebraic geometry, especially towards singularity theory, using methods from derived categories and homological algebra. See below for details.     
   
 **Dévissage by zeroth intersection Du Bois complexes**     
 [Sridhar Venkatesh](https://sites.google.com/view/sridhar-venkatesh)    
@@ -126,15 +119,3 @@ Souvik Dey, [Ryo Takahashi](https://www.math.nagoya-u.ac.jp/~takahashi/)
 **High Frobenius Pushforwards generate the bounded derived category**    
 [Matthew Ballard](https://www.matthewrobertballard.com/), [Srikanth B. Iyengar](https://www.math.utah.edu/~iyengar/), [Alapan Mukhopadhyay](http://www-personal.umich.edu/~alapanm/), [Josh Pollitz](https://www.joshpollitz.com/)    
 [arXiv](https://arxiv.org/abs/2303.18085) | [Forum Math. Sigma](https://doi.org/10.1017/fms.2025.10156)  
-
-## Expository:   
-
-**Chatzistamatiou--Rülling higher vanishing in the non-excellent case**, [PDF](/assets/PDFs/ChatzistamatiouRulling.pdf)  
-
-## Lecture notes:    
-
-**Generation techniques of Bondal--Van den Bergh to study singularities**, [PDF](/assets/PDFs/BCAM2025.pdf)    
-
-**Relative Fourier--Mukai theory for Noetherian schemes**, [PDF](/assets/PDFs/RGAS2026.pdf)     
-
-</details>
