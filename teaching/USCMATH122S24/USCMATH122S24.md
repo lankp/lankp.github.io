@@ -1,8 +1,3 @@
----
-layout: teaching
-title: "USCMATH122S24"
----
-
 **Math 122 - 019**: Business Calculus (Spring 2024)     
 
 *Course description*: Derivatives and integrals of elementary algebraic, exponential, and logarithmic functions. Maxima, minima, rate of change, motion, work, area under a curve, and volume.   
