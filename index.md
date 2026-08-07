@@ -4,16 +4,16 @@ A copy of my CV may be found [here](/assets/PDFs/LankCV.pdf).
 
 <details>
 <summary>Research</summary>
+My work is on algebraic geometry, especially towards singularity theory, using methods from derived categories and homological algebra. See below for details.  
 
-My work is on algebraic geometry, especially towards singularity theory, using methods from derived categories and homological algebra. See below for details.       
-> **Dévissage by zeroth intersection Du Bois complexes**     
+**Dévissage by zeroth intersection Du Bois complexes**     
 [Sridhar Venkatesh](https://sites.google.com/view/sridhar-venkatesh)    
-*In preparation*        
+*In preparation*    
 
-> **Openness of Fourier--Mukai loci for algebraic spaces**         
-[Elías Guisado Villalgordo](https://eliasguisado.wordpress.com/about/), [PDF](https://lankp.github.io/assets/PDFs/OpenFMLocus.pdf), to appear on arXiv
+**Openness of Fourier--Mukai loci for algebraic spaces**         
+[Elías Guisado Villalgordo](https://eliasguisado.wordpress.com/about/), [PDF](https://lankp.github.io/assets/PDFs/OpenFMLocus.pdf), to appear on arXiv   
 
-> **Localizing subcategories for algebraic stacks**     
+**Localizing subcategories for algebraic stacks**     
 [arXiv](https://arxiv.org/abs/2606.02377)        
 
 **Proxy smallness meets t-structures**     
