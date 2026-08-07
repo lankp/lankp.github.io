@@ -2,5 +2,11 @@ I am a postdoctoral research fellow for the Department of Mathematics at [Univer
 
 A copy of my CV may be found [here](/assets/PDFs/LankCV.pdf).   
 
-[Research](research.md)   
+<details>
+<summary>Research</summary>
+
+YOUR TABLE
+
+</details>
+ 
 [Teaching](teaching.md)            
