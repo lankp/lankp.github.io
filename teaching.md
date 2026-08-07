@@ -1,8 +1,3 @@
----
-layout: teaching
-title: Teaching
----
-
 University of South Carolina
   - MATH 122 - Business Calculus, [Spring 2024](/teaching/USCMATH122S24/USCMATH122S24.html)
   - MATH 111i - Intensive Basic College Mathematics, Fall 2023
