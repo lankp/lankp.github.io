@@ -2,4 +2,5 @@ I am a postdoctoral research fellow for the Department of Mathematics at [Univer
 
 A copy of my CV may be found [here](/assets/PDFs/LankCV.pdf).   
 
-[Research](http://www.lankp.github.io/research)
+[Research](http://www.lankp.github.io/research.html)   
+[Teaching](http://www.lankp.github.io/teaching.html).         
