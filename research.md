@@ -48,7 +48,7 @@ My work is on algebraic geometry, especially towards singularity theory, using m
 [Sándor Kovács](https://sites.math.washington.edu/~kovacs/current/), [Sridhar Venkatesh](https://sites.google.com/view/sridhar-venkatesh)    
 [arXiv](http://arxiv.org/abs/2507.07351)   
 
-**Perfectly generated t-structures for algebraic stacks**   
+**Perfectly generated t-structures for algebraic spaces**   
 [Michal Hrbek](https://users.math.cas.cz/~hrbek/), [Simone Pizzirani](https://www.math.cas.cz/index.php/members/researcher/891)      
 [arXiv](https://arxiv.org/abs/2506.18803)   
 
