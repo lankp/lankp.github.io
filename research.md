@@ -7,8 +7,8 @@ My work is on algebraic geometry, especially towards singularity theory, using m
 **Openness of Fourier--Mukai loci for algebraic spaces**         
 [Elías Guisado Villalgordo](https://eliasguisado.wordpress.com/about/), [PDF](https://lankp.github.io/assets/PDFs/OpenFMLocus.pdf), to appear on arXiv
 
-**Localizing subcategories for algebraic stacks**     
-[arXiv](https://arxiv.org/abs/2606.02377)        
+**Bousfield subcategories in the fppf topology**     
+[arXiv](https://arxiv.org/abs/2606.02377), [PDF](http://lankp.github.io/assets/PDFs/Bousfield.pdf) to be updated on arXiv
 
 **Proxy smallness meets t-structures**     
 [Michal Hrbek](https://users.math.cas.cz/~hrbek/), [Giovanna Le Gros](https://scholar.google.com/citations?user=snSiPzgAAAAJ&hl=en), [Sergio Pavon](https://s.pavon.info/)      
