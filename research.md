@@ -18,7 +18,7 @@ My work is on algebraic geometry, especially towards singularity theory, using m
 [Fei Peng](https://sites.google.com/view/feipeng/home/)     
 [arXiv](https://arxiv.org/html/2605.13416)       
 
-**Dualizing complexes and t-structures for algebraic stacks**    
+**Dualizing complexes and t-structures for algebraic spaces**    
 [arXiv](http://arxiv.org/abs/2602.20742)     
 
 **Perfect generation for regular algebraic stacks**     
