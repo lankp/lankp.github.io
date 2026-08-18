@@ -8,7 +8,7 @@ My work is on algebraic geometry, especially towards singularity theory, using m
 [Elías Guisado Villalgordo](https://eliasguisado.wordpress.com/about/), [PDF](https://lankp.github.io/assets/PDFs/OpenFMLocus.pdf), to appear on arXiv
 
 **Fppf descent and localizing subcategories for algebraic spaces**     
-[arXiv](https://arxiv.org/abs/2606.02377), [PDF](http://lankp.github.io/assets/PDFs/Bousfield.pdf) to be updated on arXiv
+[arXiv](https://arxiv.org/abs/2606.02377)   
 
 **Proxy smallness meets t-structures**     
 [Michal Hrbek](https://users.math.cas.cz/~hrbek/), [Giovanna Le Gros](https://scholar.google.com/citations?user=snSiPzgAAAAJ&hl=en), [Sergio Pavon](https://s.pavon.info/)      
