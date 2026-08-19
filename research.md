@@ -24,7 +24,7 @@ My work is on algebraic geometry, especially towards singularity theory, using m
 **Perfect generation for regular algebraic stacks**     
 [arXiv](http://arxiv.org/abs/2601.04053)   
 
-**Yoga for Fourier--Mukai partnership**     
+**Fiberwise criteria for Fourier--Mukai equivalences**     
 [Elías Guisado Villalgordo](https://eliasguisado.wordpress.com/about/), [Kabeer Manali Rahul](https://kabeermr.github.io/), [Nebojsa Pavic](https://sites.google.com/view/nebojsapavic/home)    
 [arXiv](https://arxiv.org/pdf/2512.16503)    
 
