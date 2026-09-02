@@ -5,7 +5,8 @@ My work is on algebraic geometry, especially towards singularity theory, using m
 *In preparation*        
 
 **Openness of Fourier--Mukai loci for algebraic spaces**         
-[Elías Guisado Villalgordo](https://eliasguisado.wordpress.com/about/), [PDF](https://lankp.github.io/assets/PDFs/OpenFMLocus.pdf), to appear on arXiv
+[Elías Guisado Villalgordo](https://eliasguisado.wordpress.com/about/)   
+[arXiv](https://arxiv.org/abs/2609.01298)    
 
 **Fppf descent and localizing subcategories for algebraic spaces**     
 [arXiv](https://arxiv.org/abs/2606.02377)   
