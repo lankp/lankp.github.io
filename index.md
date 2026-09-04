@@ -171,7 +171,7 @@ Souvik Dey,
 <summary><strong>Teaching</strong></summary>
 
 <br>
-
+     
 <strong>University of South Carolina</strong>
 <ul>
   <li>MATH 122 - Business Calculus, <a href="/teaching/USCMATH122S24/USCMATH122S24.html">Spring 2024</a></li>
