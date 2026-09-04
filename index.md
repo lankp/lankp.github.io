@@ -11,124 +11,163 @@ My work is on algebraic geometry, especially towards singularity theory, using m
 
 <br>
 
-**Dévissage by zeroth intersection Du Bois complexes**     
-[Sridhar Venkatesh](https://sites.google.com/view/sridhar-venkatesh)    
-*In preparation*        
+<strong>Dévissage by zeroth intersection Du Bois complexes</strong><br>
+<a href="https://sites.google.com/view/sridhar-venkatesh">Sridhar Venkatesh</a><br>
+<em>In preparation</em><br><br>
 
-**Openness of Fourier--Mukai loci for algebraic spaces**         
-[Elías Guisado Villalgordo](https://eliasguisado.wordpress.com/about/)   
-[arXiv](https://arxiv.org/abs/2609.01298)    
+<strong>Openness of Fourier--Mukai loci for algebraic spaces</strong><br>
+<a href="https://eliasguisado.wordpress.com/about/">Elías Guisado Villalgordo</a><br>
+<a href="https://arxiv.org/abs/2609.01298">arXiv</a><br><br>
 
-**Fppf descent and localizing subcategories for algebraic spaces**     
-[arXiv](https://arxiv.org/abs/2606.02377)   
+<strong>Fppf descent and localizing subcategories for algebraic spaces</strong><br>
+<a href="https://arxiv.org/abs/2606.02377">arXiv</a><br><br>
 
-**Proxy smallness meets t-structures**     
-[Michal Hrbek](https://users.math.cas.cz/~hrbek/), [Giovanna Le Gros](https://scholar.google.com/citations?user=snSiPzgAAAAJ&hl=en), [Sergio Pavon](https://s.pavon.info/)      
-[arXiv](https://arxiv.org/html/2605.26057)              
+<strong>Proxy smallness meets t-structures</strong><br>
+<a href="https://users.math.cas.cz/~hrbek/">Michal Hrbek</a>,
+<a href="https://scholar.google.com/citations?user=snSiPzgAAAAJ&amp;hl=en">Giovanna Le Gros</a>,
+<a href="https://s.pavon.info/">Sergio Pavon</a><br>
+<a href="https://arxiv.org/html/2605.26057">arXiv</a><br><br>
 
-**Remarks on diagonal dimension for algebraic stacks**    
-[Fei Peng](https://sites.google.com/view/feipeng/home/)     
-[arXiv](https://arxiv.org/html/2605.13416)       
+<strong>Remarks on diagonal dimension for algebraic stacks</strong><br>
+<a href="https://sites.google.com/view/feipeng/home/">Fei Peng</a><br>
+<a href="https://arxiv.org/html/2605.13416">arXiv</a><br><br>
 
-**Dualizing complexes and t-structures for algebraic spaces**    
-[arXiv](http://arxiv.org/abs/2602.20742)     
+<strong>Dualizing complexes and t-structures for algebraic spaces</strong><br>
+<a href="https://arxiv.org/abs/2602.20742">arXiv</a><br><br>
 
-**Perfect generation for regular algebraic stacks**     
-[arXiv](http://arxiv.org/abs/2601.04053)   
+<strong>Perfect generation for regular algebraic stacks</strong><br>
+<a href="https://arxiv.org/abs/2601.04053">arXiv</a><br><br>
 
-**Fiberwise criteria for Fourier--Mukai equivalences**     
-[Elías Guisado Villalgordo](https://eliasguisado.wordpress.com/about/), [Kabeer Manali Rahul](https://kabeermr.github.io/), [Nebojsa Pavic](https://sites.google.com/view/nebojsapavic/home)    
-[arXiv](https://arxiv.org/pdf/2512.16503)    
+<strong>Fiberwise criteria for Fourier--Mukai equivalences</strong><br>
+<a href="https://eliasguisado.wordpress.com/about/">Elías Guisado Villalgordo</a>,
+<a href="https://kabeermr.github.io/">Kabeer Manali Rahul</a>,
+<a href="https://sites.google.com/view/nebojsapavic/home">Nebojsa Pavic</a><br>
+<a href="https://arxiv.org/abs/2512.16503">arXiv</a><br><br>
 
-**Frobenius generation for algebraic stacks**     
-[Fei Peng](https://sites.google.com/view/feipeng/home/)     
-[arXiv](http://arxiv.org/abs/2512.05026)          
+<strong>Frobenius generation for algebraic stacks</strong><br>
+<a href="https://sites.google.com/view/feipeng/home/">Fei Peng</a><br>
+<a href="https://arxiv.org/abs/2512.05026">arXiv</a><br><br>
 
-**Nonexistence of singly compactly generated t-structures for schemes**    
-[Anirban Bhaduri](https://anirbanbhaduri.com/), [Timothy De Deyn](https://tdedeyn.github.io/), [Michal Hrbek](https://users.math.cas.cz/~hrbek/), [Kabeer Manali Rahul](https://kabeermr.github.io/)    
-[arXiv](http://arxiv.org/abs/2511.01622)    
+<strong>Nonexistence of singly compactly generated t-structures for schemes</strong><br>
+<a href="https://anirbanbhaduri.com/">Anirban Bhaduri</a>,
+<a href="https://tdedeyn.github.io/">Timothy De Deyn</a>,
+<a href="https://users.math.cas.cz/~hrbek/">Michal Hrbek</a>,
+<a href="https://kabeermr.github.io/">Kabeer Manali Rahul</a><br>
+<a href="https://arxiv.org/abs/2511.01622">arXiv</a><br><br>
 
-**Measuring birational derived splinters**      
-[Timothy De Deyn](https://tdedeyn.github.io/), [Kabeer Manali Rahul](https://kabeermr.github.io/), [Sridhar Venkatesh](https://sites.google.com/view/sridhar-venkatesh)    
-[arXiv](https://arxiv.org/abs/2510.26648) | [Bull. Lond. Math. Soc.](http://dx.doi.org/10.1112/blms.70362)         
+<strong>Measuring birational derived splinters</strong><br>
+<a href="https://tdedeyn.github.io/">Timothy De Deyn</a>,
+<a href="https://kabeermr.github.io/">Kabeer Manali Rahul</a>,
+<a href="https://sites.google.com/view/sridhar-venkatesh">Sridhar Venkatesh</a><br>
+<a href="https://arxiv.org/abs/2510.26648">arXiv</a> |
+<a href="https://doi.org/10.1112/blms.70362">Bull. Lond. Math. Soc.</a><br><br>
 
-**A note on quasi-perfect morphisms**    
-[Timothy De Deyn](https://tdedeyn.github.io/), [Kabeer Manali Rahul](https://kabeermr.github.io/)   
-[arXiv](http://arxiv.org/abs/2508.10845)    
+<strong>A note on quasi-perfect morphisms</strong><br>
+<a href="https://tdedeyn.github.io/">Timothy De Deyn</a>,
+<a href="https://kabeermr.github.io/">Kabeer Manali Rahul</a><br>
+<a href="https://arxiv.org/abs/2508.10845">arXiv</a><br><br>
 
-**Simple criteria for higher rational singularities**    
-[Sándor Kovács](https://sites.math.washington.edu/~kovacs/current/), [Sridhar Venkatesh](https://sites.google.com/view/sridhar-venkatesh)    
-[arXiv](http://arxiv.org/abs/2507.07351)   
+<strong>Simple criteria for higher rational singularities</strong><br>
+<a href="https://sites.math.washington.edu/~kovacs/current/">Sándor Kovács</a>,
+<a href="https://sites.google.com/view/sridhar-venkatesh">Sridhar Venkatesh</a><br>
+<a href="https://arxiv.org/abs/2507.07351">arXiv</a><br><br>
 
-**Perfectly generated t-structures for algebraic spaces**   
-[Michal Hrbek](https://users.math.cas.cz/~hrbek/), [Simone Pizzirani](https://www.math.cas.cz/index.php/members/researcher/891)      
-[arXiv](https://arxiv.org/abs/2506.18803)   
+<strong>Perfectly generated t-structures for algebraic spaces</strong><br>
+<a href="https://users.math.cas.cz/~hrbek/">Michal Hrbek</a>,
+<a href="https://www.math.cas.cz/index.php/members/researcher/891">Simone Pizzirani</a><br>
+<a href="https://arxiv.org/abs/2506.18803">arXiv</a><br><br>
 
-**Compact approximation and descent for algebraic stacks**    
-[Jack Hall](https://blogs.unimelb.edu.au/jack-hall/), [Fei Peng](https://sites.google.com/view/feipeng/home/), [Alicia Lamarche](https://alicialamarche.com/about)    
-[arXiv](http://arxiv.org/abs/2504.21125), accepted to Forum Math. Sigma          
+<strong>Compact approximation and descent for algebraic stacks</strong><br>
+<a href="https://blogs.unimelb.edu.au/jack-hall/">Jack Hall</a>,
+<a href="https://sites.google.com/view/feipeng/home/">Fei Peng</a>,
+<a href="https://alicialamarche.com/about">Alicia Lamarche</a><br>
+<a href="https://arxiv.org/abs/2504.21125">arXiv</a> |
+accepted to Forum Math. Sigma<br><br>
 
-**Categorical characterizations of regularity for algebraic stacks**    
-[Timothy De Deyn](https://tdedeyn.github.io/), [Kabeer Manali Rahul](https://kabeermr.github.io/), [Fei Peng](https://sites.google.com/view/feipeng/home/)    
-[arXiv](http://arxiv.org/abs/2504.02813)
+<strong>Categorical characterizations of regularity for algebraic stacks</strong><br>
+<a href="https://tdedeyn.github.io/">Timothy De Deyn</a>,
+<a href="https://kabeermr.github.io/">Kabeer Manali Rahul</a>,
+<a href="https://sites.google.com/view/feipeng/home/">Fei Peng</a><br>
+<a href="https://arxiv.org/abs/2504.02813">arXiv</a><br><br>
 
-**Descending strong generation in algebraic geometry**    
-[Timothy De Deyn](https://tdedeyn.github.io/), [Kabeer Manali Rahul](https://kabeermr.github.io/)    
-[arXiv](https://arxiv.org/abs/2502.08629)    
-	
-**Integral transforms on singularity categories for Noetherian schemes**    
-[Uttaran Dutta](https://sites.google.com/view/uttaran-dutta/home), [Kabeer Manali Rahul](https://kabeermr.github.io/)    
-[arXiv](https://arxiv.org/abs/2501.13834) | accepted to Michigan Math. J.   
+<strong>Descending strong generation in algebraic geometry</strong><br>
+<a href="https://tdedeyn.github.io/">Timothy De Deyn</a>,
+<a href="https://kabeermr.github.io/">Kabeer Manali Rahul</a><br>
+<a href="https://arxiv.org/abs/2502.08629">arXiv</a><br><br>
 
-**Measuring rationality of Schwede--Takagi pairs**    
-[Peter McDonald](https://sites.google.com/view/petermcdonald/home), [Sridhar Venkatesh](https://sites.google.com/view/sridhar-venkatesh)    
-[arXiv](https://arxiv.org/abs/2501.02783) | [J. Pure Appl. Algebra](https://doi.org/10.1016/j.jpaa.2026.108268).   
+<strong>Integral transforms on singularity categories for Noetherian schemes</strong><br>
+<a href="https://sites.google.com/view/uttaran-dutta/home">Uttaran Dutta</a>,
+<a href="https://kabeermr.github.io/">Kabeer Manali Rahul</a><br>
+<a href="https://arxiv.org/abs/2501.13834">arXiv</a> |
+accepted to Michigan Math. J.<br><br>
 
-**Descent and generation for noncommutative coherent algebras over schemes**    
-[Timothy De Deyn](https://tdedeyn.github.io/), [Kabeer Manali Rahul](https://kabeermr.github.io/)    
-[arXiv](https://arxiv.org/abs/2410.01785)    
+<strong>Measuring rationality of Schwede--Takagi pairs</strong><br>
+<a href="https://sites.google.com/view/petermcdonald/home">Peter McDonald</a>,
+<a href="https://sites.google.com/view/sridhar-venkatesh">Sridhar Venkatesh</a><br>
+<a href="https://arxiv.org/abs/2501.02783">arXiv</a> |
+<a href="https://doi.org/10.1016/j.jpaa.2026.108268">J. Pure Appl. Algebra</a><br><br>
 
-**Approximability and Rouquier dimension for noncommuative algebras over schemes**    
-[Timothy De Deyn](https://tdedeyn.github.io/), [Kabeer Manali Rahul](https://kabeermr.github.io/)    
-[arXiv](https://arxiv.org/abs/2408.04561)  
+<strong>Descent and generation for noncommutative coherent algebras over schemes</strong><br>
+<a href="https://tdedeyn.github.io/">Timothy De Deyn</a>,
+<a href="https://kabeermr.github.io/">Kabeer Manali Rahul</a><br>
+<a href="https://arxiv.org/abs/2410.01785">arXiv</a><br><br>
 
-**Triangulated characterizations of singularities**    
-[Sridhar Venkatesh](https://sites.google.com/view/sridhar-venkatesh)    
-[arXiv](https://arxiv.org/abs/2405.04389) | [Nagoya Math. J.](https://doi.org/10.1017/nmj.2025.11) 
+<strong>Approximability and Rouquier dimension for noncommuative algebras over schemes</strong><br>
+<a href="https://tdedeyn.github.io/">Timothy De Deyn</a>,
+<a href="https://kabeermr.github.io/">Kabeer Manali Rahul</a><br>
+<a href="https://arxiv.org/abs/2408.04561">arXiv</a><br><br>
 
-**Classification and nonexistence for t-structures on derived categories of schemes**    
-[Alexander Clark](https://sites.google.com/site/alexanderpclarkmath/), [Kabeer Manali Rahul](https://kabeermr.github.io/), [Chris J. Parker](https://trr358.math.uni-bielefeld.de/people/view/756)    
-[arXiv](https://arxiv.org/abs/2404.08578)              
+<strong>Triangulated characterizations of singularities</strong><br>
+<a href="https://sites.google.com/view/sridhar-venkatesh">Sridhar Venkatesh</a><br>
+<a href="https://arxiv.org/abs/2405.04389">arXiv</a> |
+<a href="https://doi.org/10.1017/nmj.2025.11">Nagoya Math. J.</a><br><br>
 
-**Closedness of the singular locus and generation for derived categories**    
-Souvik Dey    
-[arXiv](https://arxiv.org/abs/2403.19564) | [J. of Algebra](https://doi.org/10.1016/j.jalgebra.2025.07.007)    
+<strong>Classification and nonexistence for t-structures on derived categories of schemes</strong><br>
+<a href="https://sites.google.com/site/alexanderpclarkmath/">Alexander Clark</a>,
+<a href="https://kabeermr.github.io/">Kabeer Manali Rahul</a>,
+<a href="https://trr358.math.uni-bielefeld.de/people/view/756">Chris J. Parker</a><br>
+<a href="https://arxiv.org/abs/2404.08578">arXiv</a><br><br>
 
-**Dévissage for generation in derived categories**    
-Souvik Dey    
-[arXiv](http://arxiv.org/abs/2401.13661) | [Proc. Amer. Math. Soc.](https://www.ams.org/journals/proc/0000-000-00/S0002-9939-2026-17528-7/?active=current)     
+<strong>Closedness of the singular locus and generation for derived categories</strong><br>
+Souvik Dey<br>
+<a href="https://arxiv.org/abs/2403.19564">arXiv</a> |
+<a href="https://doi.org/10.1016/j.jalgebra.2025.07.007">J. of Algebra</a><br><br>
 
-**Approximation by perfect complexes detects Rouquier dimension**    
-[Noah Olander](https://noaholander.github.io/)    
-[arXiv](https://arxiv.org/abs/2401.10146) | [Mosc. Math. J.](http://www.mathjournals.org/mmj/2025-025-001/2025-025-001-002.html)  
+<strong>Dévissage for generation in derived categories</strong><br>
+Souvik Dey<br>
+<a href="https://arxiv.org/abs/2401.13661">arXiv</a> |
+<a href="https://www.ams.org/journals/proc/0000-000-00/S0002-9939-2026-17528-7/?active=current">Proc. Amer. Math. Soc.</a><br><br>
 
-**Preservation for generation along the structure morphism of coherent algebras over a scheme**    
-[Anirban Bhaduri](https://sc.edu/study/colleges_schools/artsandsciences/mathematics/our_people/directory/bhaduri_anirban.php), Souvik Dey    
-[arXiv](http://arxiv.org/abs/2312.02840) | [Bull. Lond. Math. Soc.](https://doi.org/10.1112/blms.70066)
+<strong>Approximation by perfect complexes detects Rouquier dimension</strong><br>
+<a href="https://noaholander.github.io/">Noah Olander</a><br>
+<a href="https://arxiv.org/abs/2401.10146">arXiv</a> |
+<a href="http://www.mathjournals.org/mmj/2025-025-001/2025-025-001-002.html">Mosc. Math. J.</a><br><br>
 
-**Descent conditions for generation in derived categories**    
-[arXiv](https://arxiv.org/abs/2308.08080) | [J.Pure Appl. Algebra](https://doi.org/10.1016/j.jpaa.2024.107671)   
+<strong>Preservation for generation along the structure morphism of coherent algebras over a scheme</strong><br>
+<a href="https://sc.edu/study/colleges_schools/artsandsciences/mathematics/our_people/directory/bhaduri_anirban.php">Anirban Bhaduri</a>,
+Souvik Dey<br>
+<a href="https://arxiv.org/abs/2312.02840">arXiv</a> |
+<a href="https://doi.org/10.1112/blms.70066">Bull. Lond. Math. Soc.</a><br><br>
 
-**Strong generation for module categories**    
-Souvik Dey, [Ryo Takahashi](https://www.math.nagoya-u.ac.jp/~takahashi/)    
-[arXiv](https://arxiv.org/abs/2307.13675) | [J. Pure Appl. Algebra](https://doi.org/10.1016/j.jpaa.2025.108070)    
+<strong>Descent conditions for generation in derived categories</strong><br>
+<a href="https://arxiv.org/abs/2308.08080">arXiv</a> |
+<a href="https://doi.org/10.1016/j.jpaa.2024.107671">J. Pure Appl. Algebra</a><br><br>
 
-**High Frobenius Pushforwards generate the bounded derived category**    
-[Matthew Ballard](https://www.matthewrobertballard.com/), [Srikanth B. Iyengar](https://www.math.utah.edu/~iyengar/), [Alapan Mukhopadhyay](http://www-personal.umich.edu/~alapanm/), [Josh Pollitz](https://www.joshpollitz.com/)    
-[arXiv](https://arxiv.org/abs/2303.18085) | [Forum Math. Sigma](https://doi.org/10.1017/fms.2025.10156)  
+<strong>Strong generation for module categories</strong><br>
+Souvik Dey,
+<a href="https://www.math.nagoya-u.ac.jp/~takahashi/">Ryo Takahashi</a><br>
+<a href="https://arxiv.org/abs/2307.13675">arXiv</a> |
+<a href="https://doi.org/10.1016/j.jpaa.2025.108070">J. Pure Appl. Algebra</a><br><br>
+
+<strong>High Frobenius Pushforwards generate the bounded derived category</strong><br>
+<a href="https://www.matthewrobertballard.com/">Matthew Ballard</a>,
+<a href="https://www.math.utah.edu/~iyengar/">Srikanth B. Iyengar</a>,
+<a href="http://www-personal.umich.edu/~alapanm/">Alapan Mukhopadhyay</a>,
+<a href="https://www.joshpollitz.com/">Josh Pollitz</a><br>
+<a href="https://arxiv.org/abs/2303.18085">arXiv</a> |
+<a href="https://doi.org/10.1017/fms.2025.10156">Forum Math. Sigma</a>
 
 </details>
-
 
 
 [Teaching](teaching.md)            
