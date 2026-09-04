@@ -1,8 +1,6 @@
 I am a postdoctoral research fellow for the Department of Mathematics at [Università degli Studi di Milano](https://www.unimi.it/en) under the supervision of [Amnon Neeman](https://www.unimi.it/en/ugov/person/amnon-neeman). During April 2024, I was a research associate at the [Simons-Laufer Mathematical Sciences Institute](https://www.slmath.org/programs/356). Prior to this, I was a PhD student at the University of South Carolina under the supervision of [Matthew Ballard](https://www.matthewrobertballard.com), as well as an M.Sc. student at the University of New Mexico under the supervision of [Alexandru Buium](http://www.math.unm.edu/~buium).  
 
 A copy of my CV may be found [here](/assets/PDFs/LankCV.pdf).   
- 
-[Research](research.md)    
 
 My work is on algebraic geometry, especially towards singularity theory, using methods from derived categories and homological algebra. See below for details.      
 
@@ -169,5 +167,32 @@ Souvik Dey,
 
 </details>
 
+<details>
+<summary><strong>Teaching</strong></summary>
 
-[Teaching](teaching.md)            
+<br>
+
+<strong>University of South Carolina</strong>
+<ul>
+  <li>MATH 122 - Business Calculus, <a href="/teaching/USCMATH122S24/USCMATH122S24.html">Spring 2024</a></li>
+  <li>MATH 111i - Intensive Basic College Mathematics, Fall 2023</li>
+  <li>MATH 174 - Discrete structures for computer science, Spring 2023</li>
+  <li>MATH 111 - Basic College Mathematics, Fall 2022</li>
+  <li>MATH 241 - Calculus III, Summer 2022</li>
+  <li>MATH 122 - Business Calculus, Spring 2022</li>
+  <li>MATH 111 - Basic College Mathematics, Fall 2021 (overload)</li>
+  <li>MATH 115 - Precalculus, Fall 2021</li>
+  <li>MATH 241 - Calculus III, Summer 2021</li>
+  <li>MATH 122 - Business Calculus, Spring 2021</li>
+</ul>
+
+<strong>University of New Mexico</strong>
+<ul>
+  <li>MATH 180 - Calculus I, Summer 2020</li>
+  <li>MATH 103 - Intermediate Algebra Part III, Fall 2018</li>
+  <li>MATH 102 - Intermediate Algebra Part II, Fall 2018</li>
+  <li>MATH 101 - Intermediate Algebra Part I, Fall 2018</li>
+  <li>MATH 121 - College Algebra, Fall 2017</li>
+</ul>
+
+</details>          
