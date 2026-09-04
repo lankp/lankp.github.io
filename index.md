@@ -4,7 +4,7 @@ My work is on algebraic geometry, especially towards singularity theory, using m
 
 A copy of my CV may be found [here](/assets/PDFs/LankCV.pdf).   
      
-<details>
+<details id="publications">
 <summary><strong>Publications and preprints</strong></summary>
 
 <br>
