@@ -13,6 +13,9 @@ A copy of my CV may be found [here](/assets/PDFs/LankCV.pdf).
 <a href="https://sites.google.com/view/sridhar-venkatesh">Sridhar Venkatesh</a><br>
 <em>In preparation</em><br><br>
 
+<strong>A blowup criterion for regularity</strong><br>
+<a href="https://arxiv.org/abs/2609.15691">arXiv</a><br><br>
+
 <strong>Openness of Fourier--Mukai loci for algebraic spaces</strong><br>
 <a href="https://eliasguisado.wordpress.com/about/">Elías Guisado Villalgordo</a><br>
 <a href="https://arxiv.org/abs/2609.01298">arXiv</a><br><br>
