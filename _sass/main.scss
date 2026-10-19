@@ -1,0 +1,23 @@
+$backgroundColor: #ffffff;
+$bodyColor: #000000;
+$bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+$linkColor: #00008B !important;
+
+body {
+  background: $backgroundColor;
+  color: $bodyColor;
+  font-family: $bodyFont;
+}
+
+a {
+  color: #00008B; // Dark blue color
+  text-decoration: none; // Removes underline
+  
+  &:hover {
+    color: lighten(#00008B, 20%); // Lighter shade on hover (optional)
+  }
+  
+  &:visited {
+    color: #00008B; // Keep visited links the same color (optional)
+  }
+}
