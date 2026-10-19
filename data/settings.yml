@@ -1,0 +1,7 @@
+menu:
+- {name: 'home', url: '/index'}
+- {name: 'schedule', url: '/schedule'}
+- {name: 'contact', url: '/contact'}
+
+contacts:
+- {name: Pat Lank, image: 'assets/img/photo.gif'}
